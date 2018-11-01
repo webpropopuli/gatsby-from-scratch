@@ -1,0 +1,15 @@
+{
+  "name": "gatsby-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Marlowe",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby-source-filesystem": "^2.0.5",
+    "gatsby-transformer-remark": "^2.1.9"
+  }
+}
